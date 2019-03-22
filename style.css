@@ -1,0 +1,30 @@
+
+ body{
+	background:#000;
+	display: flex;
+}
+
+canvas{
+	background:#000;
+	width:900px;
+	height:900px;
+	border-style:solid;
+	border-color:#ab9b89;
+	margin-top:50px;
+image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+
+}
+
+.Aligner{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.Aligner-item{
+		
+}
